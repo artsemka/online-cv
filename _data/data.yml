@@ -35,6 +35,9 @@ sidebar:
 
       - idiom: German
         level: Elementary
+        
+      - idiom: Russian
+        level: Native
 
     interests:
       - item: Diving
@@ -131,7 +134,7 @@ experiences:
 projects:
     title: TRAINING & OTHERS
  #   intro: >
-    summary:
+    summary: |
       The Complete Project Management Fundamentals Course (Udemy)
       
       Agile Methodologies (LinkedIn Badge)
