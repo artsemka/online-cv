@@ -7,62 +7,61 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Artsem Kovaliou
-    tagline: Head of Sales \ Project Manager
+    name: Alan Doe
+    tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: artiom.kovalyov@gmail.com
-    phone: +375 29 61 99 500
-    #timezone: America/Cancun Timezone
+    email: hello@webjeda.com
+    phone: 012 345 6789
+    timezone: America/Cancun Timezone
     citizenship:
-    #website: blog.webjeda.com #do not add http://
-    linkedin: artemkovalev
-    #xing: alandoe
-    github: artsemka
-    telegram: artsemtelegram
-    #gitlab:
-    #bitbucket:
-    #twitter: '@webjeda'
-    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    website: blog.webjeda.com #do not add http://
+    linkedin: alandoe
+    xing: alandoe
+    github: sharu725
+    telegram: # add your nickname without '@' sign
+    gitlab:
+    bitbucket:
+    twitter: '@webjeda'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
-    #goodreads: # Number-Username, e.g. 123456-alandoe
-    #pdf: http://www.africau.edu/images/default/sample.pdf
+    goodreads: # Number-Username, e.g. 123456-alandoe
+    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
-        level: Advanced
-
-      - idiom: German
-        level: Elementary
-        
-      - idiom: Russian
         level: Native
 
+      - idiom: French
+        level: Professional
+
+      - idiom: Spanish
+        level: Professional
+
     interests:
-      - item: Diving
+      - item: Climbing
         link:
 
       - item: Snowboarding
         link:
-   
+
+      - item: Cooking
+        link:
+
 career-profile:
     title: Career Profile
     summary: |
-      Highly motivated, responsible, fast learner and have excellent communication skill. 
-      Able to work on own initiative and as part of a team. Work well under pressure. 
-      Proven leadership skills involving managing, developing and motivating teams to achieve their objectives. 
-      Excellent analytical, design and problem solving skills. Dedicated to maintaining high quality standards.
-      
-      Participated in projects of varying complexity and took part in all stages of project implementation. 
-      Able to predict the development of events and the consequences of decisions made, identify and plan the main directions of work, 
-      determine long-term goals, propose and argue forms and methods of work for solving the tasks. 
-      Able to manage several projects in parallel and work with tight deadlines.
-    # You can [download this free resume/CV template here]().      
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can [download this free resume/CV template here]().
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
 education:
-    - degree: BSc in engineering (microelectronics)
-      university: Belarusian State University of Informatics and Radioelectronics
-      time: 1999 - 2004
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -71,15 +70,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: The PMI Global Accreditation Center for Project Management Education Programs
-      university: University of Maryland
-      time: 2022
-      details:
-        Applied Scrum for Agile Project Management
-        USMx - ENCE607.1x
-    - degree: MBA Start Generals
-      university: Moscow Business School
-      time: 2009
+    - degree: BSc in Applied Mathematics
+      university: Bristol University
+      time: 2007 - 2011
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -89,101 +82,112 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Head of Sales
-      time: 2017 - Present
-      company: COMPIT EXPERT LLC, Minsk
+    - role: Lead Developer
+      time: 2015 - Present
+      company: Startup Hubs, San Francisco
       details: |
-          - Control over the work of the sales department
-          - Managing projects
-          - Planning and budgeting
-          - Negotiate Business Proposals and Sales Contracts
-    - role: Sales Manager
-      time: 2009 - 2017
-      company: COMPIT EXPERT LLC, Minsk
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        error sit voluptatem accusantium doloremque laudantium, totam rem
+        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        architecto beatae vitae dicta sunt explicabo.
+          - Bullet point
+          - Bullet point
+    - role: Senior Software Engineer
+      time: 2014 - 2015
+      company: Google, London
       details: |
-          - Present, promote and sell (Services, software, hardware)
-          - Establish, develop and maintain relationships
-          - Negotiating all contracts with prospective clients
-          - Preparing weekly and monthly reports
-    - role: Project Manager
-      time: 2008 - 2009
-      company: Tri-Media Integrated Marketing Technologies Inc., Minsk
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
+    - role: UI Developer
+      time: 2012 - 2014
+      company: Amazon, London
       details: |
-          - Manages product specification, serves as primary project architect
-          - Facilitates communication and negotiation within the team
-          - Maintains the project schedule and reports project status
-          - Manages implementation of critical tradeoff decisions
-          - Develops, maintains, and executes the project master plan and schedule
-          - Manage risk assessment and risk management
-          - Provide trainings for project team
-          - Design project using PM standards and processes
-    - role: Deputy Head of Sales Department
-      time: 2007 - 2008
-      company: Belpronto JV Ltd., Minsk
-      details: |
-          - Sales\distribution of the company's products
-          - Search of new clients and alternative sources of sales
-          - Supply of production with raw materials
-          - Sale of related products
-          - Carrying out of negotiations with customers
-    - role: CEO (General Manager)
-      time: 2005 - 2007
-      company: ProService-Bel JV Ltd., Minsk
-      details: |
-          - Creation of a service center from «scratch»
-          - Recruitment and training of personnel
-          - Contracts with manufacturers
-          - Contracts with retail chains
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+          - Bullet point
+          - Bullet point
 projects:
-    title: TRAINING & OTHERS
+    title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: The Complete Project Management Fundamentals Course (Udemy)
+      - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Agile Methodologies (LinkedIn Badge)
+      - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Seminar "Technologies for effective communication in tough negotiations" (Consulting company)
+      - title: Tempo
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Training "Sales Technologies" ("BelPronto“ JV Ltd.)
+      - title: Atom
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Training "Personnel Management" (IOOO "Evroset")
+      - title: Delta
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-       - title: + dozens of certificates and much more…
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Project Management
+      - name: Python & Django
         level: 98%
 
-      - name: Communication
+      - name: Javascript & jQuery
         level: 98%
 
-      - name: Budgeting
+      - name: Angular
         level: 98%
 
-      - name: Scheduling
+      - name: HTML5 & CSS
         level: 95%
 
-      - name: Risk Management & Compliance
+      - name: Ruby on Rails
         level: 85%
 
-      - name: Asset Manage
+      - name: Sketch & Photoshop
         level: 60%
 
 footer: >
