@@ -133,41 +133,32 @@ experiences:
           - Bullet point
 projects:
     title: TRAINING & OTHERS
- #   intro: >
-    summary: |
-      The Complete Project Management Fundamentals Course (Udemy)
-      
-      Agile Methodologies (LinkedIn Badge)
-      
-      Seminar "Technologies for effective communication in tough negotiations" (Consulting company)
-      
-      Training "Sales Technologies" ("BelPronto“ JV Ltd.)
-      
-      Training "Personnel Management" (IOOO "Evroset")
-      
-      + dozens of certificates and much more…
+    intro: >
 #
 #      You can list your side projects or open source libraries in this
 #      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-#    assignments:
-#      - title: Velocity
+    assignments:
+      - title: The Complete Project Management Fundamentals Course (Udemy)
 #        link: "#hook"
 #        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 #
-#      - title: DevStudio
+      - title: Agile Methodologies (LinkedIn Badge)
 #        link: "#"
 #        tagline: "A responsive website template designed to help web developers/designers market their services."
 #
-#      - title: Tempo
+      - title: Seminar "Technologies for effective communication in tough negotiations" (Consulting company)
 #        link: "#"
 #        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 #
-#      - title: Atom
+      - title: Training "Sales Technologies" ("BelPronto“ JV Ltd.)
 #        link: "#"
 #        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 #
-#      - title: Delta
+      - title: Training "Personnel Management" (IOOO "Evroset")
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+       - title: + dozens of certificates and much more…
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
