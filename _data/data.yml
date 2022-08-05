@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Artsem Kovaliou
-    tagline: Head of Sales \ PM
+    tagline: Head of Sales \ Project Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -27,7 +27,7 @@ sidebar:
     #stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     #goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    #pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
@@ -50,11 +50,12 @@ career-profile:
       Able to work on own initiative and as part of a team. Work well under pressure. 
       Proven leadership skills involving managing, developing and motivating teams to achieve their objectives. 
       Excellent analytical, design and problem solving skills. Dedicated to maintaining high quality standards.
+      
       Participated in projects of varying complexity and took part in all stages of project implementation. 
       Able to predict the development of events and the consequences of decisions made, identify and plan the main directions of work, 
       determine long-term goals, propose and argue forms and methods of work for solving the tasks. 
       Able to manage several projects in parallel and work with tight deadlines.
-      You can [download this free resume/CV template here]().      
+      #You can [download this free resume/CV template here]().      
 education:
     - degree: BSc in engineering (microelectronics)
       university: Belarusian State University of Informatics and Radioelectronics
@@ -128,75 +129,82 @@ experiences:
           - Bullet point
           - Bullet point
 projects:
-    title: Projects
+    title: TRAINING & OTHERS
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      The Complete Project Management Fundamentals Course (Udemy)
+      Agile Methodologies (LinkedIn Badge)
+      Seminar "Technologies for effective communication in tough negotiations" (Consulting company)
+      Training "Sales Technologies" ("BelPronto“ JV Ltd.)
+      Training "Personnel Management" (IOOO "Evroset")
+      + dozens of certificates and much more…
+#
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Tempo
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Atom
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Delta
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
+#    papers:
+#      - title: The Art of Computer Programming
+#        link: "#"
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        link: "#"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        link: "#"
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Project Management
+      #  level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Communication
+      #  level: 98%
 
-      - name: Angular
-        level: 98%
+      - name: Budgeting
+      #  level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Scheduling
+      #  level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Risk Management & Compliance
+      #  level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Asset Manage
+      #  level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
