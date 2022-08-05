@@ -82,9 +82,9 @@ education:
           - Bullet point
           - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Head of Sales
+      time: 2017 - Present
+      company: COMPIT EXPERT LLC, Minsk
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -95,30 +95,57 @@ experiences:
         error sit voluptatem accusantium doloremque laudantium, totam rem
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+          - Control over the work of the sales department
+          - Managing projects
+          - Planning and budgeting
+          - Negotiate Business Proposals and Sales Contracts
+    - role: Sales Manager
+      time: 2009 - 2017
+      company: COMPIT EXPERT LLC, Minsk
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+          - Present, promote and sell (Services, software, hardware)
+          - Establish, develop and maintain relationships
+          - Negotiating all contracts with prospective clients
+          - Preparing weekly and monthly reports
+    - role: Project Manager
+      time: 2008 - 2009
+      company: Tri-Media Integrated Marketing Technologies Inc., Minsk
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
         Cum sociis natoque penatibus et magnis dis parturient montes,
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Manages product specification, serves as primary project architect
+          - Facilitates communication and negotiation within the team
+          - Maintains the project schedule and reports project status
+          - Manages implementation of critical tradeoff decisions
+          - Develops, maintains, and executes the project master plan and schedule
+          - Manage risk assessment and risk management
+          - Provide trainings for project team
+          - Design project using PM standards and processes
+    - role: Deputy Head of Sales Department
+      time: 2007 - 2008
+      company: Belpronto JV Ltd., Minsk
+      details: |
+          - Sales\distribution of the company's products
+          - Search of new clients and alternative sources of sales
+          - Supply of production with raw materials
+          - Sale of related products
+          - Carrying out of negotiations with customers
+    - role: CEO (General Manager)
+      time: 2005 - 2007
+      company: ProService-Bel JV Ltd., Minsk
+      details: |
+          - Creation of a service center from «scratch»
+          - Recruitment and training of personnel
+          - Contracts with manufacturers
+          - Contracts with retail chains
 projects:
     title: Projects
     intro: >
