@@ -55,7 +55,7 @@ career-profile:
       Able to predict the development of events and the consequences of decisions made, identify and plan the main directions of work, 
       determine long-term goals, propose and argue forms and methods of work for solving the tasks. 
       Able to manage several projects in parallel and work with tight deadlines.
-      #You can [download this free resume/CV template here]().      
+    # You can [download this free resume/CV template here]().      
 education:
     - degree: BSc in engineering (microelectronics)
       university: Belarusian State University of Informatics and Radioelectronics
@@ -132,10 +132,15 @@ projects:
     title: TRAINING & OTHERS
     intro: >
       The Complete Project Management Fundamentals Course (Udemy)
+      
       Agile Methodologies (LinkedIn Badge)
+      
       Seminar "Technologies for effective communication in tough negotiations" (Consulting company)
+      
       Training "Sales Technologies" ("BelPronto“ JV Ltd.)
+      
       Training "Personnel Management" (IOOO "Evroset")
+      
       + dozens of certificates and much more…
 #
 #      You can list your side projects or open source libraries in this
@@ -189,22 +194,22 @@ skills:
 
     toolset:
       - name: Project Management
-      #  level: 98%
+        level: 98%
 
       - name: Communication
-      #  level: 98%
+        level: 98%
 
       - name: Budgeting
-      #  level: 98%
+        level: 98%
 
       - name: Scheduling
-      #  level: 95%
+        level: 95%
 
       - name: Risk Management & Compliance
-      #  level: 85%
+        level: 85%
 
       - name: Asset Manage
-      #  level: 60%
+        level: 60%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
