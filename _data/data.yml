@@ -179,25 +179,25 @@ projects:
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
-    title: Publications
+    title: TRAINING & OTHERS
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: The Complete Project Management Fundamentals Course
+        link: "https://ude.my/UC-14ac8f42-262e-4b65-a428-29324b4dc07e"
+        authors: Udemy
+        conference: July 3, 2022
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: Agile Methodologies
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: LinkedIn Skill Assessment badge
+        conference: July, 2022
 
-      - title: A syntax directed compiler for Algol 60
+      - title: Seminar "Technologies for effective communication in tough negotiations"
         link: "#"
-        authors: Edgar T. Irons
+        authors: Consulting company
         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
