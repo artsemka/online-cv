@@ -130,7 +130,8 @@ experiences:
           - Bullet point
 projects:
     title: TRAINING & OTHERS
-    intro: >
+ #   intro: >
+    summary:
       The Complete Project Management Fundamentals Course (Udemy)
       
       Agile Methodologies (LinkedIn Badge)
