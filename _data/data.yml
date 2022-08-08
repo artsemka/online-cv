@@ -76,14 +76,19 @@ education:
     - degree: Applied Scrum for Agile Project Management
       university: University of Maryland (The PMI Global Accreditation Center for Project Management Education Programs)
       time: 2022
-#      details: |
-#        Describe your study here lorem ipsum dolor sit amet, consectetuer
+      details: |
+        USMx - ENCE607.1x
 #        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
 #        sociis natoque penatibus et magnis dis parturient montes, nascetur
 #        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
 #        pretium quis, sem.
 #          - Bullet point
 #          - Bullet point
+
+    - degree: MBA Start Generals
+      university: Moscow Business School
+      time: 2009
+      
 experiences:
     - role: Head of Sales
       time: 2017 - Present
