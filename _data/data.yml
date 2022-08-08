@@ -12,42 +12,42 @@ sidebar:
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    email: artiom.kovalyov@gmail.com
+    phone: +375 29 61 99 500
+#    timezone: America/Cancun Timezone
+#    citizenship:
+#    website: blog.webjeda.com #do not add http://
+    linkedin: artemkovalev
+#    xing: alandoe
+    github: artsemka
+    telegram: artsemtelegram
+#    gitlab:
+#    bitbucket:
+#    twitter: '@webjeda'
+#    stack-overflow: # Number/Username, e.g. 123456/alandoe
+#    codewars:
+#    goodreads: # Number-Username, e.g. 123456-alandoe
+#    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: English
+        level: Advanced
+
+      - idiom: Deutsch
+        level: Basic
+
+      - idiom: Russian
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
     interests:
-      - item: Climbing
+      - item: Diving
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+#      - item: Snowboarding
+#        link:
+#
+#      - item: Cooking
+#        link:
 
 career-profile:
     title: Career Profile
@@ -86,15 +86,6 @@ experiences:
       time: 2017 - Present
       company: COMPIT EXPERT LLC, Minsk
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
           - Control over the work of the sales department
           - Managing projects
           - Planning and budgeting
@@ -103,11 +94,6 @@ experiences:
       time: 2009 - 2017
       company: COMPIT EXPERT LLC, Minsk
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           - Present, promote and sell (Services, software, hardware)
           - Establish, develop and maintain relationships
           - Negotiating all contracts with prospective clients
@@ -116,11 +102,6 @@ experiences:
       time: 2008 - 2009
       company: Tri-Media Integrated Marketing Technologies Inc., Minsk
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
           - Manages product specification, serves as primary project architect
           - Facilitates communication and negotiation within the team
           - Maintains the project schedule and reports project status
@@ -146,67 +127,70 @@ experiences:
           - Recruitment and training of personnel
           - Contracts with manufacturers
           - Contracts with retail chains
-projects:
-    title: TRAINING & OTHERS
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: The Complete Project Management Fundamentals Course (Udemy)
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: Agile Methodologies (LinkedIn Badge)
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Seminar "Technologies for effective communication in tough negotiations" (Consulting company)
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Training "Sales Technologies" ("BelPronto“ JV Ltd.)
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Training "Personnel Management" (IOOO "Evroset")
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-        
-        
-      - title: + dozens of certificates and much more…
-        link: "https://www.linkedin.com/in/artemkovalev/details/certifications/"
+# projects:
+#    title: TRAINING & OTHERS
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#    assignments:
+#      - title: The Complete Project Management Fundamentals Course (Udemy)
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: Agile Methodologies (LinkedIn Badge)
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+#
+#      - title: Seminar "Technologies for effective communication in tough negotiations" (Consulting company)
+#        link: "#"
+#        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+#
+#      - title: Training "Sales Technologies" ("BelPronto“ JV Ltd.)
+#        link: "#"
+#        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#
+#      - title: Training "Personnel Management" (IOOO "Evroset")
+#        link: "#"
+#        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#        
+#        
+#      - title: + dozens of certificates and much more…
+#        link: "https://www.linkedin.com/in/artemkovalev/details/certifications/"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 publications:
     title: TRAINING & OTHERS
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      I constantly improve my skills in online and offline seminars and courses
     papers:
+      - title: Foundations of Project Management
+        link: "https://www.coursera.org/account/accomplishments/certificate/MZZHKSVJSSE8"
+        authors: Coursera
+        conference: August 4, 2022
+        
       - title: The Complete Project Management Fundamentals Course
         link: "https://ude.my/UC-14ac8f42-262e-4b65-a428-29324b4dc07e"
         authors: Udemy
         conference: July 3, 2022
 
       - title: Agile Methodologies
-        link: "#"
+#        link: "#"
         authors: LinkedIn Skill Assessment badge
         conference: July, 2022
 
       - title: Seminar "Technologies for effective communication in tough negotiations"
-        link: "#"
+#        link: "#"
         authors: Consulting company
         conference: 2008
         
       - title: Training "Sales Technologies"
-        link: "#"
+#        link: "#"
         authors: BelPronto JV Ltd
         conference: 2007
         
       - title: Training "Personnel Management"
-        link: "#"
+#        link: "#"
         authors: IOOO Evroset
         conference: 2005
         
@@ -219,22 +203,22 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Project Management
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Communication
         level: 98%
 
-      - name: Angular
+      - name: Budgeting
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Scheduling
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Risk Management & Compliance
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Asset Manage
         level: 60%
 
 footer: >
